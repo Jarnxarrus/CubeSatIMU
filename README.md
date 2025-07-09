@@ -7,3 +7,10 @@ The goal of this project is to accurately measure orientation aboard student-mad
 It flew for the first time abord SCALAR VI, a two-stage experimental rocket made by students from the Supaéro Space Section in 2025.
 
 Detailed information can be found in the reports.
+
+
+# Required Libraries
+
+- Adafruit BNO055 [version x.x.x]
+- Adafruit Unified Sensor
+- SdFat by Bill Greiman
