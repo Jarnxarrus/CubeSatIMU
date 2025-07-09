@@ -1,4 +1,4 @@
-# CubeSatIMU, an ISAE-Supaéro student project
+# 9 Axis IMU PCB, an ISAE-Supaéro student project led by the CubeSat Club
 
 This repository provides the codes, parts and reports used to design a custom PCB carrying an IMU (Inertial Motion Unit), an Arduino Nano and an SD card module.
 
